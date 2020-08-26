@@ -39,8 +39,8 @@ Browser			            : Google Chrome and Firefox
 5.Command Line:
 6.Maven Status:
 7.Github Location: https://github.com/ramkumark0218/TripPlanner
-13.1 Project - TripPlannerAutomationFramework:
+8.1 Project - TripPlannerAutomationFramework:
 
-13.2 Console Output:
+8.2 Console Output:
 
-13.3 TestNG Results:
+8.3 TestNG Results:
